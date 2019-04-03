@@ -1,7 +1,7 @@
 BERT Fine-tuning on Quora Question Pairs
 -
 
-This repo contains google colab notebooks for finetuning BERT model on Quora Question Pairs dataset. We use colab TPU runtime for faster training.
+This repo contains google colab notebooks for finetuning BERT model on Quora Question Pairs dataset. We use colab TPU runtime for faster training. Medium post on this repo can be found [here](https://medium.com/@drcjudelhi/bert-fine-tuning-on-quora-question-pairs-b48277787285).
 
 If you are not familiar with BERT, please visit [The Illustrated BERT](http://jalammar.github.io/illustrated-bert/), [BERT Research Paper](https://arxiv.org/abs/1810.04805) and [BERT Github Repo](https://github.com/google-research/bert).
 
